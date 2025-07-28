@@ -7,7 +7,7 @@ versi **29/07/2025**
 Sebagai calon asisten Lab IRK, kalian diberikan tantangan seru yaitu membuat soal kuis Matematika Diskrit. Task ini dirancang untuk menguji sejauh mana kreativitas, logika, dan pemahaman kalian terhadap konsep-konsep Matematika Diskrit dengan membuat soal yang original dan belum pernah diujikan sebelumnya. Lebih dari sekadar latihan membuat soal, ini adalah kesempatan untuk menunjukkan bahwa kalian layak menjadi bagian dari asisten Lab IRK selanjutnya.
 
 <div align=center>
-<img src="./img/maxresdefault.jpg">
+<img src="./img/1.jpg">
 <br>
   <b>Fig 1.</b> Math is Everywhere
 <br>
@@ -36,7 +36,7 @@ Buatkan 10 soal Matematika Diskrit yang mencakup seluruh materi pada mata kuliah
 ### 1. LaTex Sebagai Text Editor
 
 <div align=center>
-<img src="./img/maxresdefault.jpg">
+<img src="./img/2.png">
 <br>
   <b>Fig 2.</b> Apa itu LaTex?
 <br>
@@ -49,7 +49,7 @@ Salah satu keuntungan utama LaTex adalah dapat menghasilkan berkas dalam format 
 ### 2. Soal Anti-LLM
 
 <div align=center>
-<img src="./img/maxresdefault.jpg">
+<img src="./img/3.png">
 <br>
   <b>Fig 3.</b> Mending jadi petani kaya Thanos
 <br>

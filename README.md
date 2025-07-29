@@ -27,9 +27,10 @@ Buatkan 10 soal Matematika Diskrit yang mencakup seluruh materi pada mata kuliah
 5) Tiap sub-materi hanya dapat dijadikan satu soal
 6) Jika jumlah materi lebih banyak dibandingkan jumlah soal yang harus dibuat, pilihlah materi yang kalian lebih pahami untuk dibuat
 7) Diperbolehkan untuk menggabungkan beberapa sub-materi ke dalam satu soal
-8) Setiap soal harus diberikan tingkat kesulitan **Easy/Medium/Hard** dan alasan yang jelas mengapa diberikan tingkat kesulitan tersebut
+8) Setiap soal harus diberikan tingkat kesulitan **Easy/Medium/Hard** dengan pembagiannya secara berurut adalah **3/4/3** dan alasan yang jelas mengapa diberikan tingkat kesulitan tersebut
 9) Setiap soal harus diberikan kunci jawabannya dengan penjelasan yang jelas di setiap langkahnya. Format jawaban dapat dilihat pada website Pak Rinaldi atau kunci jawaban berikut sebagai [contoh](https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/Solusi-Kuis-1-IF1220-2025.pdf)
-10) Berkas soal dan jawaban dibuat terpisah dan dikumpulkan dalam format `.pdf`
+10) Soal tidak boleh sama dengan soal yang pernah diujikan sebelumnya
+11) Berkas soal dan jawaban dibuat terpisah dan dikumpulkan dalam format `.pdf`
 
 ## Spesifikasi Bonus (600 Poin)
 
